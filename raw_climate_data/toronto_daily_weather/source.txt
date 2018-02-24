@@ -1,0 +1,1 @@
+http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1958-03-01%7C1960-11-30&mlyRange=1958-01-01%7C1960-12-01&StationID=5103&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2018&selRowPerPage=25&Line=66&searchMethod=contains&txtStationName=Toronto&timeframe=2&Day=23&Year=1960&Month=1#

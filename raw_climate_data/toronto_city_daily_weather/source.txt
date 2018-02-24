@@ -1,0 +1,1 @@
+http://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=2002-06-04%7C2018-02-23&dlyRange=2002-06-04%7C2018-02-23&mlyRange=2003-07-01%7C2006-12-01&StationID=31688&Prov=ON&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1960&EndYear=2018&selRowPerPage=25&Line=25&searchMethod=contains&txtStationName=toronto&timeframe=2&Day=23&Year=2002&Month=6#
